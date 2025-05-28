@@ -17,13 +17,13 @@ const styles = {
     padding: "0.6rem",
     width: "85rem",
     display: "flex",
-    alignItem: "center",
+    alignItems: "center",
     justifyContent: "center",
   },
 
   navbar: {
     display: "flex",
-    alignItem: "center",
+    alignItems: "center",
     justifyContent: "center",
   },
 
