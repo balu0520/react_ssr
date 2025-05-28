@@ -44,4 +44,4 @@ To start the React application with server-side rendering (SSR), run the followi
 npm run ssr
 ```
 
-This will launch the application on a local development server. Open your web browser and visit `http://localhost:3002` to see the application in action.
+This will launch the application on a local development server. Open your web browser and visit `http://localhost:3003` to see the application in action.
